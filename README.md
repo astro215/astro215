@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astro215" alt="astro215" /></a> </p>
 
-- 🔭 I’m currently working on [Resume Revealer](https://github.com/astro215/ResumeRevealer)
-
 - 🌱 I’m currently learning **Reinforcement Learning , Rust**
 
 - 💬 Ask me about **Natural Language Processing (NLP), LLMs ,Deep Learning**
