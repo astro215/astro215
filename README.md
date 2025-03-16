@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaini Patel</h1>
+<h1 align="center">Hi 👋, I'm Astro</h1>
 <h3 align="center">Versatile developer specializing in machine learning and frontend technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro215&label=Profile%20views&color=0e75b6&style=flat" alt="astro215" /> </p>
