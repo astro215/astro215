@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **Natural Language Processing (NLP), LLMs ,Deep Learning**
 
-- 📫 How to reach me **jainil24680@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/q3t7eurpt6](https://flowcv.com/resume/q3t7eurpt6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
