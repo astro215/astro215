@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astro215&show_icons=true&locale=en&layout=compact" alt="astro215" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astro215&show_icons=true&locale=en" alt="astro215" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astro215&" alt="astro215" /></p>
